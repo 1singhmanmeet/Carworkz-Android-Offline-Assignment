@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">CarworkzAssignment</string>
+    <string name="login_title">Sign-in with Github</string>
+</resources>
